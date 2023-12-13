@@ -1,0 +1,417 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(../fonts/Quicksand-Regular.ttf);
+}
+#navbar {
+  padding-top: 48px;
+  padding-bottom: 40px;
+  padding-left: 48px;
+  padding-right: 48px;
+  background: #2C2C2C;
+  width: 20%;
+  position: fixed;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  overflow-y: scroll;
+  z-index: 1001;
+}
+#navbar h1 a {
+  color: #fff;
+  text-decoration: none;
+  text-align: right;
+  font-weight: 700;
+  font-size: 22px;
+  text-transform: uppercase;
+  margin-bottom: 48px;
+  display: block;
+  width: 100%;
+  font-family: myFirstFont, Arial, sans-serif;
+  letter-spacing: 2px;
+  padding-right: 0.3em;
+}
+#navbar ul {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+#navbar ul li {
+  margin: 0 0 10px 0;
+  padding: 0;
+  list-style: none;
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+#navbar ul li a {
+  text-decoration: none;
+  padding: 10px 0;
+  font-family: myFirstFont, Arial, sans-serif;
+  color: rgba(255, 255, 255, 0.5);
+  transition: all 0.5s;
+}
+#navbar ul li a:hover {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+#navbar ul li.active a {
+  color: #FFC300;
+}
+#navbar .nav-footer {
+  position: absolute;
+  bottom: 40px;
+  right: 0;
+  left: 0;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.3);
+  padding: 0 20px;
+  width: 100%;
+}
+#navbar .nav-footer span {
+  display: block;
+}
+#navbar .nav-footer a {
+  color: #FFC300;
+  text-decoration: none;
+}
+#navbar .nav-footer ul {
+  padding: 0;
+  margin: 0;
+}
+#navbar .nav-footer ul li {
+  padding: 0;
+  margin: 0;
+  display: inline;
+  list-style: none;
+  font-size: 15px;
+}
+#navbar .nav-footer ul li a {
+  color: rgba(255, 255, 255, 0.3);
+  padding: 4px;
+}
+#navbar .nav-footer ul li a:hover, #navbar .nav-footer ul li a:active, #navbar .nav-footer ul li a:focus {
+  text-decoration: none;
+  outline: none;
+  color: #FFC300;
+}
+
+#settings {
+  display: none;
+  position: fixed;
+  top: 70px !important;
+  left: 15px;
+  z-index: 20;
+}
+#settings .all .button {
+  transition: all 0.5s;
+}
+#settings .all .button i {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  color: black;
+  width: 50px;
+  height: 40px;
+}
+
+#filter-for-phone {
+  display: none;
+  width: 100%;
+  height: 100%;
+}
+#filter-for-phone .all {
+  overflow: scroll;
+  background: #2C2C2C;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  z-index: 5;
+  padding-top: 25px;
+}
+#filter-for-phone .all .col3 {
+  width: 250px;
+}
+#filter-for-phone .all .col3 .nav {
+  padding-top: 48px;
+  padding-bottom: 40px;
+  padding-left: 48px;
+  padding-right: 48px;
+}
+#filter-for-phone .all .col3 .nav .header .list-group {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+#filter-for-phone .all .col3 .nav .header .list-group li {
+  list-style: none;
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 0;
+  margin: 0;
+  display: inline;
+}
+#filter-for-phone .all .col3 .nav .header .list-group li a {
+  text-decoration: none;
+  padding: 10px 0;
+  font-family: myFirstFont, Arial, sans-serif;
+  color: rgba(255, 255, 255, 0.5);
+  transition: all 0.5s;
+}
+#filter-for-phone .all .col3 .nav .header .list-group li a:hover {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+#filter-for-phone .all .col3 .nav .header .list-group li.active a {
+  color: #FFC300;
+}
+#filter-for-phone .all .col3 .nav .header h1 a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 22px;
+  text-transform: uppercase;
+  display: block;
+  width: 100%;
+  font-family: myFirstFont, Arial, sans-serif;
+  letter-spacing: 2px;
+  padding-right: 0.3em;
+  margin-bottom: 48px;
+}
+#filter-for-phone .all .col3 .nav .nav-footer {
+  position: absolute;
+  bottom: 40px;
+  right: 0;
+  left: 0;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.3);
+  padding: 0 10px;
+}
+#filter-for-phone .all .col3 .nav .nav-footer span {
+  display: block;
+}
+#filter-for-phone .all .col3 .nav .nav-footer a {
+  color: #FFC300;
+  text-decoration: none;
+}
+#filter-for-phone .all .col3 .nav .nav-footer ul {
+  padding: 0;
+  margin: 0;
+}
+#filter-for-phone .all .col3 .nav .nav-footer ul li {
+  padding: 0;
+  margin: 0;
+  display: inline;
+  list-style: none;
+  font-size: 15px;
+}
+#filter-for-phone .all .col3 .nav .nav-footer ul li a {
+  color: rgba(255, 255, 255, 0.3);
+  padding: 4px;
+}
+#filter-for-phone .all .col3 .nav .nav-footer ul li a:hover, #filter-for-phone .all .col3 .nav .nav-footer ul li a:active, #filter-for-phone .all .col3 .nav .nav-footer ul li a:focus {
+  text-decoration: none;
+  outline: none;
+  color: #FFC300;
+}
+
+.hide-filter {
+  transition: all 0.5s;
+  transform: translateX(-330px);
+  z-index: -1;
+}
+
+.active-filter {
+  transform: translateX(0px);
+  transition: all 0.5s;
+}
+
+.slide-settings {
+  transform: translateX(320px);
+  transition: all 0.5s;
+}
+
+main {
+  width: 80%;
+  float: right;
+  overflow: hidden;
+}
+main #works {
+  margin-top: 100px;
+  margin-left: 20px;
+}
+main #works .heading {
+  margin-bottom: 15px;
+  display: block;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #999999;
+  font-weight: 500;
+  letter-spacing: 5px;
+}
+main #works .title {
+  font-size: 18px;
+  margin-bottom: 49px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  line-height: 1.8;
+  position: relative;
+}
+main #works .title::after {
+  position: absolute;
+  bottom: -6px;
+  left: 0;
+  width: 60px;
+  height: 4px;
+  content: "";
+  background: #FFC300;
+}
+main #works .project {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100%;
+  height: 300px;
+  margin-bottom: 30px;
+}
+main #works .project .desc {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.8);
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+  opacity: 0;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+main #works .project .desc .con {
+  padding: 20px;
+  display: block;
+  position: relative;
+  height: 300px;
+}
+main #works .project .desc .con h3 a {
+  text-decoration: none;
+  font-size: 15px;
+  color: white;
+  font-weight: 300;
+  font-family: myFirstFont;
+  text-transform: uppercase;
+}
+main #works .project .desc .con span {
+  font-weight: 300;
+  font-family: myFirstFont;
+  color: #999999;
+  font-size: 13px;
+}
+main #works .project .desc .con .icon {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+}
+main #works .project .desc .con .icon span a {
+  text-decoration: none;
+  color: #cccccc;
+  padding: 5px;
+  width: 25px;
+  height: 40px;
+  background: #333333;
+  border-radius: 2px;
+}
+main #works .project .desc .con .icon span a i {
+  color: #cccccc;
+  padding: 2px;
+}
+main #works .project .desc:hover {
+  opacity: 1;
+}
+main #works .pagination li {
+  width: 50px;
+  height: 40px;
+  border: 1px solid #ddd;
+  margin-left: 10px;
+  text-align: center;
+  padding: 5px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+main #works .pagination li a {
+  text-decoration: none;
+  color: #000;
+  font-weight: 400;
+  font-size: 15px;
+}
+main #works .pagination li:hover {
+  background-color: #FFC300;
+}
+main #works .pagination li:hover a {
+  color: white;
+}
+main #works .pagination .active {
+  background-color: #FFC300;
+}
+main #works .pagination .active a {
+  color: white;
+}
+main #contact {
+  margin-top: 150px;
+  background: #fafafa;
+  height: 350px;
+}
+main #contact h2 {
+  margin-left: 40px;
+  margin-top: 50px;
+  font-weight: 400;
+  font-family: myFirstFont;
+}
+main #contact p {
+  margin-left: 40px;
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.8;
+  color: rgba(0, 0, 0, 0.7);
+  font-family: myFirstFont;
+}
+main #contact button {
+  margin-left: 40px;
+  margin-top: 20px;
+  width: 190px;
+  height: 50px;
+  background-color: #FFC300;
+  border: transparent;
+  border-radius: 50px;
+}
+main #contact button a {
+  text-decoration: none;
+  color: white;
+  font-family: myFirstFont;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+@media only screen and (max-width: 992px) {
+  #navbar {
+    display: none !important;
+  }
+  #settings {
+    display: block !important;
+    width: 30% !important;
+  }
+  #filter-for-phone {
+    display: block !important;
+  }
+}/*# sourceMappingURL=project.css.map */

@@ -1,0 +1,355 @@
+﻿@model HomeVM
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<main>
+    <section id="slider">
+        <div class="flexslider">
+            <ul class="slides">    
+                @foreach (var item in Model.Sliders)
+                {
+                    <li style="background-image: url('assets/images/@item.Image');">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-12 col-xs-12">
+                                    <div class="slider-text-inner">
+                                        <div class="desc">
+                                            <h1>@item.Header</h1>
+                                            <h2>
+                                                100% html5 bootstrap templates Made by <a href=""
+                                                                                          target="_blank">balay.com</a>
+                                            </h2>
+                                            <button>
+                                                <a href="">
+                                                    View project <i class="fa-solid fa-arrow-right"></i>
+                                                </a>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                }
+                
+            </ul>
+        </div>
+    </section>
+
+    <section id="welcome">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="about-img" style="background-image: url('/assets/images/@Model.AboutImage.Image');">
+                    </div>
+
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="text-part">
+                        <span class="heading">@Model.AboutImage.Heading</span>
+                        <h2 class="title">@Model.AboutImage.Title</h2>
+                        @Html.Raw(Model.AboutImage.Description)
+
+                    </div>
+
+                    <div class="icon-check">
+
+                        @foreach (var item in Model.AboutIcon)
+                        {
+                            <div class="icon">
+                                <a href="#" class="steps active">
+                                    <p class="check"><span><i class="fa-solid fa-check"></i></span></p>
+                                    @Html.Raw(item.Title)
+                                </a>
+                            </div>
+                        }
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <span class="heading">What I do?</span>
+                    <h2 class="title">Here are some of my expertise</h2>
+
+                    <div class="feauture">
+                        <i class="fa-solid fa-person-digging"></i>
+                        <div class="text">
+                            <h3>General Conctructing</h3>
+                            <p>
+                                Far far away, behind the word mountains, far from the countries Vokalia and
+                                Consonantia, there live the blind texts.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="feauture mt-2">
+                        <i class="fa-solid fa-wrench"></i>
+                        <div class="text">
+                            <h3>Pre-Contruction Design</h3>
+                            <p>
+                                Far far away, behind the word mountains, far from the countries Vokalia and
+                                Consonantia, there live the blind texts.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="feauture mt-2">
+                        <i class="fa-solid fa-screwdriver-wrench"></i>
+                        <div class="text">
+                            <h3>Building &amp; Modeling</h3>
+                            <p>
+                                Far far away, behind the word mountains, far from the countries Vokalia
+                                and Consonantia, there live the blind texts.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="feauture mt-2">
+                        <i class="fa-solid fa-trowel-bricks"></i>
+                        <div class="text">
+                            <h3>Construction Management</h3>
+                            <p>
+                                Far far away, behind the word mountains, far from the countries Vokalia
+                                and Consonantia, there live the blind texts.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <a href="services.html" class="services-wrap">
+                        <div class="services-img" style="background-image: url('assets/images/services-1.jpg')">
+                        </div>
+                        <div class="desc">
+                            <h3>Design &amp; Build</h3>
+                        </div>
+                    </a>
+
+                    <a href="services.html" class="services-wrap mt-3">
+                        <div class="services-img" style="background-image: url('assets/images/services-2.jpg')">
+                        </div>
+                        <div class="desc">
+                            <h3>House Remodeling</h3>
+                        </div>
+                    </a>
+
+                    <a href="services.html" class="services-wrap mt-3">
+                        <div class="services-img" style="background-image: url('assets/images/services-3.jpg')">
+                        </div>
+                        <div class="desc">
+                            <h3>Construction Management</h3>
+                        </div>
+                    </a>
+
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+
+    <section id="bg">
+        <div class="bg-img"></div>
+    </section>
+
+    <section id="works">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <span class="heading">My work</span>
+                    <h2 class="title">Recent work</h2>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-xs-12 col-sm-12">
+                    <div class="project" style="background-image:url('assets/images/img-1.jpg');">
+                        <div class="desc">
+                            <div class="con">
+                                <h3><a href="">Work 01</a></h3>
+                                <span>Buildings</span>
+                                <p class="icon">
+                                    <span><a href="#"><i class="fa-solid fa-share-nodes"></i></a></span>
+                                    <span><a href="#"><i class="fa-solid fa-eye"></i> 100</a></span>
+                                    <span><a href="#"><i class="fa-solid fa-heart"></i> 49</a></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-xs-12 col-sm-12">
+                    <div class="project" style="background-image:url('assets/images/img-2.jpg');">
+                        <div class="desc">
+                            <div class="con">
+                                <h3><a href="">Work 02</a></h3>
+                                <span>House, Apartment</span>
+                                <p class="icon">
+                                    <span><a href="#"><i class="fa-solid fa-share-nodes"></i></a></span>
+                                    <span><a href="#"><i class="fa-solid fa-eye"></i> 100</a></span>
+                                    <span><a href="#"><i class="fa-solid fa-heart"></i> 49</a></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-xs-12 col-sm-12">
+                    <div class="project" style="background-image:url('assets/images/img-3.jpg');">
+                        <div class="desc">
+                            <div class="con">
+                                <h3><a href="">Work 03</a></h3>
+                                <span>Dining Room</span>
+                                <p class="icon">
+                                    <span><a href="#"><i class="fa-solid fa-share-nodes"></i></a></span>
+                                    <span><a href="#"><i class="fa-solid fa-eye"></i> 100</a></span>
+                                    <span><a href="#"><i class="fa-solid fa-heart"></i> 49</a></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-xs-12 col-sm-12">
+                    <div class="project" style="background-image:url('assets/images/img-4.jpg');">
+                        <div class="desc">
+                            <div class="con">
+                                <h3><a href="">Work 04</a></h3>
+                                <span>House, Building</span>
+                                <p class="icon">
+                                    <span><a href="#"><i class="fa-solid fa-share-nodes"></i></a></span>
+                                    <span><a href="#"><i class="fa-solid fa-eye"></i> 100</a></span>
+                                    <span><a href="#"><i class="fa-solid fa-heart"></i> 49</a></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-xs-12 col-sm-12">
+                    <div class="project" style="background-image:url('assets/images/img-5.jpg');">
+                        <div class="desc">
+                            <div class="con">
+                                <h3><a href="">Work 05</a></h3>
+                                <span>Condo, Pad</span>
+                                <p class="icon">
+                                    <span><a href="#"><i class="fa-solid fa-share-nodes"></i></a></span>
+                                    <span><a href="#"><i class="fa-solid fa-eye"></i> 100</a></span>
+                                    <span><a href="#"><i class="fa-solid fa-heart"></i> 49</a></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-xs-12 col-sm-12">
+                    <div class="project" style="background-image:url('assets/images/img-6.jpg');">
+                        <div class="desc">
+                            <div class="con">
+                                <h3><a href="">Work 06</a></h3>
+                                <span>Table, Chairs</span>
+                                <p class="icon">
+                                    <span><a href="#"><i class="fa-solid fa-share-nodes"></i></a></span>
+                                    <span><a href="#"><i class="fa-solid fa-eye"></i> 100</a></span>
+                                    <span><a href="#"><i class="fa-solid fa-heart"></i> 49</a></span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="blogs">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <span class="heading">Read</span>
+                    <h2 class="title">Recent blog</h2>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-xs-12 col-sm-12">
+                    <div class="blog">
+                        <a href=""><img src="~/assets/images/blog-1.jpg" alt=""></a>
+                        <div class="desc">
+                            <span>
+                                <small>April 14, 2018 </small> | <small> Web Design </small> | <small>
+                                    <i class="fa-regular fa-comment"></i> 4
+                                </small>
+                            </span>
+                            <h3><a href="">Renovating National Gallery</a></h3>
+                            <p>
+                                Separated they live in Bookmarksgrove right at the coast of the Semantics, a
+                                large language ocean.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-xs-12 col-sm-12">
+                    <div class="blog">
+                        <a href=""><img src="~/assets/images/blog-2.jpg" alt=""></a>
+                        <div class="desc">
+                            <span>
+                                <small>April 14, 2018 </small> | <small> Web Design </small> | <small>
+                                    <i class="fa-regular fa-comment"></i> 4
+                                </small>
+                            </span>
+                            <h3><a href="">Wordpress for a Beginner</a></h3>
+                            <p>
+                                Separated they live in Bookmarksgrove right at the coast of the Semantics, a
+                                large language ocean.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-xs-12 col-sm-12">
+                    <div class="blog">
+                        <a href=""><img src="~/assets/images/blog-3.jpg" alt=""></a>
+                        <div class="desc">
+                            <span>
+                                <small>April 14, 2018 </small> | <small> Web Design </small> | <small>
+                                    <i class="fa-regular fa-comment"></i> 4
+                                </small>
+                            </span>
+                            <h3><a href="">Make website from scratch</a></h3>
+                            <p>
+                                Separated they live in Bookmarksgrove right at the coast of the Semantics, a
+                                large language ocean.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <h2>Get in Touch!</h2>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <p>
+                        Separated they live in Bookmarksgrove right at the coast of the
+                        Semantics, a large language ocean.
+                    </p>
+                </div>
+
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <button><a href="">Contact me!</a></button>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+</main>

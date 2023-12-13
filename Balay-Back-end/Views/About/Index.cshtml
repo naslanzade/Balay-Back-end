@@ -1,0 +1,178 @@
+﻿@model AboutVM
+@{
+    ViewData["Title"] = "About Page";
+}
+
+
+
+@section Css{
+    <link rel="stylesheet" href="~/assets/scss/about/about.css">
+}
+
+
+
+<main>
+    <section id="welcome">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="about-img" style="background-image: url('/assets/images/@Model.AboutImage.Image');">
+                    </div>
+
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="text-part">
+                        <span class="heading">@Model.AboutImage.Heading</span>
+                        <h2 class="title">@Model.AboutImage.Title</h2>
+                       @Html.Raw(Model.AboutImage.Description)
+
+                    </div>
+
+                    <div class="icon-check">
+
+                        @foreach (var item in Model.AboutIcon)
+                        {
+                            <div class="icon">
+                                <a href="#" class="steps active">
+                                    <p class="check"><span><i class="fa-solid fa-check"></i></span></p>
+                                   @Html.Raw(item.Title)
+                                </a>
+                            </div>
+                        }
+                  
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+
+    <section id="history">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+                    <h2 class="title">@Model.AboutHistory.Title</h2>
+                    <p>
+                       @Model.AboutHistory.Description
+                    </p>
+                </div>
+
+                <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
+                    <div class="accordion accordion-flush" id="accordionFlushExample">                    
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-headingOne">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#flush-collapseOne" aria-expanded="false"
+                                        aria-controls="flush-collapseOne">
+                                    Why Choose Me ?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseOne" class="accordion-collapse collapse"
+                                 aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body mt-2">
+                                    <div class="text">
+                                        <p>
+                                            Far far away, behind the word mountains, far from the
+                                            countries Vokalia and Consonantia, there live the blind
+                                            texts.
+                                        </p>
+                                        <p>
+                                            Separated they live in Bookmarksgrove right at the coast of
+                                            the Semantics, a large language ocean.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item mt-2">
+                            <h2 class="accordion-header" id="flush-headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#flush-collapseTwo" aria-expanded="false"
+                                        aria-controls="flush-collapseTwo">
+                                    What I Do?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseTwo" class="accordion-collapse collapse"
+                                 aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body mt-2">
+                                    <div class="panel-body">
+                                        <p>
+                                            Far far away, behind the word <strong>mountains</strong>, far from
+                                            the countries Vokalia and Consonantia, there live the blind texts.
+                                            Separated they live in Bookmarksgrove right at the coast of the
+                                            Semantics, a large language ocean.
+                                        </p>
+                                        <ul>
+                                            <li>Separated they live in Bookmarksgrove right</li>
+                                            <li>Separated they live in Bookmarksgrove right</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item mt-2">
+                            <h2 class="accordion-header" id="flush-headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#flush-collapseThree" aria-expanded="false"
+                                        aria-controls="flush-collapseThree">
+                                    My Specialties
+                                </button>
+                            </h2>
+                            <div id="flush-collapseThree" class="accordion-collapse collapse"
+                                 aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body mt-2">
+                                    <p>
+                                        Far far away, behind the word <strong>mountains</strong>, far from
+                                        the countries Vokalia and Consonantia, there live the blind texts.
+                                        Separated they live in Bookmarksgrove right at the coast of the
+                                        Semantics, a large language ocean.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="bg">
+        <div class="bg-img"></div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <h2>Get in Touch!</h2>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <p>
+                        Separated they live in Bookmarksgrove right at the coast of the
+                        Semantics, a large language ocean.
+                    </p>
+                </div>
+
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <button><a href="">Contact me!</a></button>
+                </div>
+
+            </div>
+        </div>
+    </section>
+</main>
+
+
+@section Scripts {
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <script src="~/assets/js/about/about.js"></script>
+   
+
+}
+
