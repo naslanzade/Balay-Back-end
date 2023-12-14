@@ -1,0 +1,94 @@
+﻿@model ServiceVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+@section Css{
+    <link rel="stylesheet" href="~/assets/scss/service/service.css">
+}
+
+<main>
+    <section id="head">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <span class="heading">What I do?</span>
+                    <h2 class="title">Here are some of my expertise</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="services">
+        <div class="container">
+            <div class="row">
+
+                @foreach (var item in Model.Features)
+                {
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <div class="feauture mt-2">
+                            @Html.Raw(item.Icon)
+                            <div class="text">
+                                <h3>@item.Title</h3>
+                                <p>
+                                    @item.Description
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                }
+                
+            </div>
+        </div>
+    </section>
+
+    <section id="img">
+        <div class="container">
+            <div class="row">
+                @foreach (var item in Model.Services)
+                {
+                    <div class="col-lg-4 col-md-6 col-xs-12 col-sm-12 mt-2">
+                        <a asp-controller="Service" asp-action="Index" class="services-wrap mt-3">
+                            <div class="services-img" style="background-image: url('/assets/images/@item.Image')">
+                            </div>
+                            <div class="desc">
+                                <h3>@item.Desc</h3>
+                            </div>
+                        </a>
+                    </div>
+                }            
+
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <h2>Get in Touch!</h2>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <p>
+                        Separated they live in Bookmarksgrove right at the coast of the
+                        Semantics, a large language ocean.
+                    </p>
+                </div>
+
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <button><a href="">Contact me!</a></button>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+</main>
+
+
+@section Scripts {    
+    <script src="~/assets/js/service/service.js"></script>
+}

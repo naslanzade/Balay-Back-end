@@ -9,41 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Balay_Back_end
 build_property.RootNamespace = Balay_Back_end
-build_property.ProjectDir = C:\Users\novra\OneDrive\Desktop\Balay-Back-end\Balay-Back-end\
+build_property.ProjectDir = C:\Users\novra\Desktop\Balay-Back-end\Balay-Back-end\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\novra\OneDrive\Desktop\Balay-Back-end\Balay-Back-end
+build_property.MSBuildProjectDirectory = C:\Users\novra\Desktop\Balay-Back-end\Balay-Back-end
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/novra/OneDrive/Desktop/Balay-Back-end/Balay-Back-end/Views/About/Index.cshtml]
+[C:/Users/novra/Desktop/Balay-Back-end/Balay-Back-end/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/novra/OneDrive/Desktop/Balay-Back-end/Balay-Back-end/Views/Home/Index.cshtml]
+[C:/Users/novra/Desktop/Balay-Back-end/Balay-Back-end/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/novra/Desktop/Balay-Back-end/Balay-Back-end/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/novra/Desktop/Balay-Back-end/Balay-Back-end/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/novra/OneDrive/Desktop/Balay-Back-end/Balay-Back-end/Views/Home/Privacy.cshtml]
+[C:/Users/novra/Desktop/Balay-Back-end/Balay-Back-end/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/novra/OneDrive/Desktop/Balay-Back-end/Balay-Back-end/Views/Shared/Error.cshtml]
+[C:/Users/novra/Desktop/Balay-Back-end/Balay-Back-end/Views/Project/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/novra/Desktop/Balay-Back-end/Balay-Back-end/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/novra/Desktop/Balay-Back-end/Balay-Back-end/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/novra/OneDrive/Desktop/Balay-Back-end/Balay-Back-end/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/novra/Desktop/Balay-Back-end/Balay-Back-end/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/novra/OneDrive/Desktop/Balay-Back-end/Balay-Back-end/Views/_ViewImports.cshtml]
+[C:/Users/novra/Desktop/Balay-Back-end/Balay-Back-end/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/novra/OneDrive/Desktop/Balay-Back-end/Balay-Back-end/Views/_ViewStart.cshtml]
+[C:/Users/novra/Desktop/Balay-Back-end/Balay-Back-end/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/novra/OneDrive/Desktop/Balay-Back-end/Balay-Back-end/Views/Shared/_Layout.cshtml]
+[C:/Users/novra/Desktop/Balay-Back-end/Balay-Back-end/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0ctq5fl5cu

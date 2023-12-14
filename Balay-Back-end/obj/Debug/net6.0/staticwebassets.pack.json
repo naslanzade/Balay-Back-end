@@ -1,1275 +1,1275 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Balay-Back-end.bundle.scp.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Balay-Back-end.bundle.scp.css",
       "PackagePath": "staticwebassets\\Balay-Back-end.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\.gitattributes",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\.gitattributes",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\.gitattributes"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\.gitignore",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\.gitignore",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\.gitignore"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\.travis.yml",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\.travis.yml",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\.travis.yml"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\CONTRIBUTING.md",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\CONTRIBUTING.md",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\CONTRIBUTING.md"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\Gruntfile.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\Gruntfile.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\Gruntfile.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\ISSUE_TEMPLATE.md",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\ISSUE_TEMPLATE.md",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\ISSUE_TEMPLATE.md"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\LICENSE",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\LICENSE",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\README.md",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\README.md",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\README.md"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\ROADMAP.md",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\ROADMAP.md",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\ROADMAP.md"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\_config.json",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\_config.json",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\_config.json"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\bower.json",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\bower.json",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\bower.json"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\LICENSE",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\LICENSE",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\README.md",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\README.md",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\README.md"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\ajax-loader.gif",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\owl.carousel.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\owl.carousel.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\owl.carousel.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\dist\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\dist\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\css\\animate.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\css\\animate.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\css\\animate.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\css\\docs.theme.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\css\\docs.theme.min.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\css\\docs.theme.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\bird_blue_32.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\bird_blue_32.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\bird_blue_32.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\download.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\download.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\download.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-drag.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-drag.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-drag.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-modern.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-modern.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-modern.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-module.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-module.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-module.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-options.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-options.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-options.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-responsive.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-responsive.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-responsive.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-zombie.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-zombie.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-zombie.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\owl-logo.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\owl-logo.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\owl-logo.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\twitter_25.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\twitter_25.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\img\\twitter_25.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\js\\app.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\js\\app.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\js\\app.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\js\\foundation.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\js\\foundation.min.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\js\\foundation.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\README.md",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\README.md",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\README.md"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\foundation.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\foundation.min.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\foundation.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\highlight.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\highlight.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\highlight.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.map",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.mousewheel.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.mousewheel.min.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.mousewheel.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\animate.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\animate.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\animate.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autoheight.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autoheight.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autoheight.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autoplay.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autoplay.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autoplay.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autowidth.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autowidth.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\autowidth.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\basic.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\basic.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\basic.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\center.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\center.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\center.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\demos.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\demos.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\demos.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\events.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\events.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\events.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\lazyLoad.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\lazyLoad.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\lazyLoad.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\merge.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\merge.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\merge.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\mousewheel.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\mousewheel.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\mousewheel.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\responsive.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\responsive.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\responsive.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\rtl.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\rtl.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\rtl.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\stagepadding.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\stagepadding.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\stagepadding.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\test.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\test.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\test.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\urlhashnav.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\urlhashnav.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\urlhashnav.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\video.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\video.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\demos\\video.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-classes.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-classes.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-classes.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-events.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-events.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-events.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-options.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-options.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\api-options.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-buildin-plugins.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-buildin-plugins.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-buildin-plugins.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-external.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-external.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-external.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-plugin-api.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-plugin-api.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-plugin-api.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-styles.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-styles.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\dev-styles.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-faq.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-faq.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-faq.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-installation.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-installation.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-installation.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-welcome.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-welcome.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\started-welcome.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-changelog.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-changelog.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-changelog.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-contact.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-contact.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-contact.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-contributing.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-contributing.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\docs\\support-contributing.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\index.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs\\index.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs\\index.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\css\\animate.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\css\\animate.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\css\\animate.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\bird_blue_32.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\bird_blue_32.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\bird_blue_32.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\download.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\download.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\download.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-drag.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-drag.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-drag.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-modern.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-modern.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-modern.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-module.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-module.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-module.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-options.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-options.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-options.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-responsive.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-responsive.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-responsive.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-zombie.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-zombie.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-zombie.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\owl-logo.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\owl-logo.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\owl-logo.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\twitter_25.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\twitter_25.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\twitter_25.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\app.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\app.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\app.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\foundation.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\foundation.min.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\foundation.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\_settings.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\_settings.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\_settings.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\custom.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\custom.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\custom.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\demos.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\demos.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\demos.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.theme.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.theme.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.theme.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.css.map",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\foundation.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\foundation.min.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\foundation.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\highlight.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\highlight.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\highlight.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.map",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\classes.json",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\classes.json",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\classes.json"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\events.json",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\events.json",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\events.json"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\features.json",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\features.json",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\features.json"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\options.json",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\options.json",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\data\\options.json"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\helpers\\modulo.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\helpers\\modulo.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\helpers\\modulo.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\helpers\\test.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\helpers\\test.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\helpers\\test.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\demos.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\demos.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\demos.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\docs.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\docs.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\docs.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\home.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\home.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\home.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\animate.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\animate.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\animate.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoheight.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoheight.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoheight.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoplay.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoplay.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoplay.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autowidth.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autowidth.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autowidth.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\basic.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\basic.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\basic.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\center.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\center.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\center.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\demos.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\demos.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\demos.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\events.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\events.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\events.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\merge.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\merge.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\merge.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\mousewheel.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\mousewheel.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\mousewheel.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\responsive.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\responsive.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\responsive.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\rtl.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\rtl.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\rtl.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\stagepadding.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\stagepadding.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\stagepadding.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\test.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\test.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\test.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\video.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\video.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\video.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-classes.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-classes.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-classes.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-events.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-events.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-events.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-options.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-options.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-options.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-external.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-external.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-external.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-styles.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-styles.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-styles.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-faq.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-faq.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-faq.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-installation.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-installation.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-installation.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-welcome.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-welcome.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-welcome.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-changelog.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-changelog.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-changelog.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contact.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contact.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contact.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contributing.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contributing.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contributing.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\index.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\index.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\index.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\footer.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\footer.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\footer.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\head.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\head.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\head.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\header.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\header.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\header.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-carousel.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-carousel.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-carousel.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-features.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-features.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-features.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-hero.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-hero.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-hero.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-teaser-text.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-teaser-text.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-teaser-text.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\javascripts.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\javascripts.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\javascripts.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\releated-docs.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\releated-docs.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\releated-docs.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\sidenav-docs.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\sidenav-docs.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\sidenav-docs.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\title.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\title.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\title.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\vendors.hbs",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\vendors.hbs",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\vendors.hbs"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\package-lock.json",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\package-lock.json",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\package-lock.json"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\package.json",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\package.json",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\package.json"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\img\\ajax-loader.gif",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\img\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\img\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\img\\owl.video.play.png",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\img\\owl.video.play.png",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\img\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\.jscsrc",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\.jscsrc",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\.jscsrc"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\.jshintrc",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\.jshintrc",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\.jshintrc"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.animate.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.animate.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.animate.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autoheight.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autoheight.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autoheight.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autoplay.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autoplay.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autoplay.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autorefresh.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autorefresh.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.autorefresh.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.carousel.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.carousel.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.hash.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.hash.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.hash.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.lazyload.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.lazyload.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.lazyload.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.navigation.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.navigation.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.navigation.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.support.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.support.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.support.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.support.modernizr.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.support.modernizr.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.support.modernizr.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.video.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.video.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\js\\owl.video.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_animate.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_animate.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_animate.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_autoheight.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_autoheight.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_autoheight.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_core.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_core.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_lazyload.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_lazyload.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_lazyload.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.default.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.default.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.default.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.green.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.green.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.green.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_theme.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_video.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_video.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\_video.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.css.map",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.css.map",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.css.map",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.scss",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\test\\index.html",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\test\\index.html",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\test\\index.html"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\test\\unit\\autoplay.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\test\\unit\\autoplay.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\test\\unit\\autoplay.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\test\\unit\\core.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\OwlCarousel2-2.3.4\\test\\unit\\core.js",
       "PackagePath": "staticwebassets\\assets\\OwlCarousel2-2.3.4\\test\\unit\\core.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\blog-1.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\blog-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\blog-2.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\blog-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-2.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\blog-3.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\blog-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-3.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\blog-4.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\blog-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-4.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\blog-5.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\blog-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-5.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\blog-6.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\blog-6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-6.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\cover_bg_1.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\cover_bg_1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\cover_bg_1.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-1.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\img-1.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-2.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\img-2.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-3.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\img-3.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-4.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\img-4.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-5.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\img-5.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-6.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\img-6.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-7.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\img-7.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-8.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\img-8.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-9.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img-9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\img-9.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img_bg_1.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img_bg_1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\img_bg_1.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img_bg_2.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img_bg_2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\img_bg_2.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img_bg_3.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\img_bg_3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\img_bg_3.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\services-1.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\services-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\services-1.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\services-2.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\services-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\services-2.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\services-3.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\services-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\services-3.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\services-4.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\services-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\services-4.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\services-5.jpg",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\images\\services-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\services-5.jpg"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\js\\about\\about.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\js\\about\\about.js",
       "PackagePath": "staticwebassets\\assets\\js\\about\\about.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\js\\blog\\blog.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\js\\blog\\blog.js",
       "PackagePath": "staticwebassets\\assets\\js\\blog\\blog.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\js\\contact\\contact.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\js\\contact\\contact.js",
       "PackagePath": "staticwebassets\\assets\\js\\contact\\contact.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\js\\home\\home.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\js\\home\\home.js",
       "PackagePath": "staticwebassets\\assets\\js\\home\\home.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\js\\project\\project.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\js\\project\\project.js",
       "PackagePath": "staticwebassets\\assets\\js\\project\\project.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\js\\service\\service.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\js\\service\\service.js",
       "PackagePath": "staticwebassets\\assets\\js\\service\\service.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\lib\\animate\\animate.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\lib\\animate\\animate.css",
       "PackagePath": "staticwebassets\\assets\\lib\\animate\\animate.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\lib\\animate\\animate.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\lib\\animate\\animate.min.css",
       "PackagePath": "staticwebassets\\assets\\lib\\animate\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\lib\\flexslider.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\lib\\flexslider.css",
       "PackagePath": "staticwebassets\\assets\\lib\\flexslider.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\lib\\jquery.flexslider.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\lib\\jquery.flexslider.js",
       "PackagePath": "staticwebassets\\assets\\lib\\jquery.flexslider.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\lib\\wow\\wow.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\lib\\wow\\wow.js",
       "PackagePath": "staticwebassets\\assets\\lib\\wow\\wow.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\lib\\wow\\wow.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\lib\\wow\\wow.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\wow\\wow.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\about\\about.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\about\\about.css",
       "PackagePath": "staticwebassets\\assets\\scss\\about\\about.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\about\\about.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\about\\about.css.map",
       "PackagePath": "staticwebassets\\assets\\scss\\about\\about.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\about\\about.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\about\\about.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\about\\about.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\blog\\blog.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\blog\\blog.css",
       "PackagePath": "staticwebassets\\assets\\scss\\blog\\blog.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\blog\\blog.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\blog\\blog.css.map",
       "PackagePath": "staticwebassets\\assets\\scss\\blog\\blog.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\blog\\blog.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\blog\\blog.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\blog\\blog.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\contact\\contact.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\contact\\contact.css",
       "PackagePath": "staticwebassets\\assets\\scss\\contact\\contact.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\contact\\contact.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\contact\\contact.css.map",
       "PackagePath": "staticwebassets\\assets\\scss\\contact\\contact.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\contact\\contact.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\contact\\contact.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\contact\\contact.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\fonts\\Quicksand-Bold.ttf",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\fonts\\Quicksand-Bold.ttf",
       "PackagePath": "staticwebassets\\assets\\scss\\fonts\\Quicksand-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\fonts\\Quicksand-Light.ttf",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\fonts\\Quicksand-Light.ttf",
       "PackagePath": "staticwebassets\\assets\\scss\\fonts\\Quicksand-Light.ttf"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\fonts\\Quicksand-Medium.ttf",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\fonts\\Quicksand-Medium.ttf",
       "PackagePath": "staticwebassets\\assets\\scss\\fonts\\Quicksand-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\fonts\\Quicksand-Regular.ttf",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\fonts\\Quicksand-Regular.ttf",
       "PackagePath": "staticwebassets\\assets\\scss\\fonts\\Quicksand-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\fonts\\Quicksand-SemiBold.ttf",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\fonts\\Quicksand-SemiBold.ttf",
       "PackagePath": "staticwebassets\\assets\\scss\\fonts\\Quicksand-SemiBold.ttf"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\helpers\\_responsive.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\helpers\\_responsive.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\helpers\\_responsive.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\home\\home.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\home\\home.css",
       "PackagePath": "staticwebassets\\assets\\scss\\home\\home.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\home\\home.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\home\\home.css.map",
       "PackagePath": "staticwebassets\\assets\\scss\\home\\home.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\home\\home.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\home\\home.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\home\\home.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\partials\\_variables.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\partials\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\partials\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\project\\project.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\project\\project.css",
       "PackagePath": "staticwebassets\\assets\\scss\\project\\project.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\project\\project.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\project\\project.css.map",
       "PackagePath": "staticwebassets\\assets\\scss\\project\\project.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\project\\project.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\project\\project.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\project\\project.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\service\\service.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\service\\service.css",
       "PackagePath": "staticwebassets\\assets\\scss\\service\\service.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\service\\service.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\service\\service.css.map",
       "PackagePath": "staticwebassets\\assets\\scss\\service\\service.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\service\\service.scss",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\assets\\scss\\service\\service.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\service\\service.scss"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\novra\\Desktop\\Balay-Back-end\\Balay-Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

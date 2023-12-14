@@ -18,6 +18,10 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 
 
 builder.Services.AddScoped<ISliderService, SliderService>();
+builder.Services.AddScoped<IServiceService, ServiceService>();
+builder.Services.AddScoped<IFeatureService, FeatureService>();
+builder.Services.AddScoped<IProjectService, ProjectService>();
+builder.Services.AddScoped<IBlogService, BlogService>();
 
 var app = builder.Build();
 

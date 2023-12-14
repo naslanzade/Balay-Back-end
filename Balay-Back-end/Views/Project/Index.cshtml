@@ -1,0 +1,88 @@
+﻿@model ProjectVM
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+@section Css{
+    <link rel="stylesheet" href="~/assets/scss/project/project.css">
+
+
+    
+}
+
+<main>
+    <section id="works">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <span class="heading">My work</span>
+                    <h2 class="title">Our work</h2>
+                </div>
+
+                @foreach (var item in Model.PaginatedDatas.Datas)
+                {
+                    <div class="col-lg-4 col-md-6 col-xs-12 col-sm-12">
+                        <div class="project" style="background-image:url('/assets/images/@item.Image');">
+                            <div class="desc">
+                                <div class="con">
+                                    <h3><a href="">@item.Work</a></h3>
+                                    <span>@item.Title</span>
+                                    <p class="icon">
+                                        <span><a href="#"><i class="fa-solid fa-share-nodes"></i></a></span>
+                                        <span><a href="#"><i class="fa-solid fa-eye"></i> 100</a></span>
+                                        <span><a href="#"><i class="fa-solid fa-heart"></i> 49</a></span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                }
+ 
+                <div class="col-md-12">
+                    <ul class="pagination">
+
+                        @for (int i = 1; i <= Model.PaginatedDatas.TotalPage; i++)
+                        {
+                            <li @(Model.PaginatedDatas.CurrentPage == i ? "disabled && active" : "")><a asp-action="Index" asp-route-page="@i">@i</a></li>
+
+                        }                     
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <h2>Get in Touch!</h2>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <p>
+                        Separated they live in Bookmarksgrove right at the coast of the
+                        Semantics, a large language ocean.
+                    </p>
+                </div>
+
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <button><a href="">Contact me!</a></button>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+</main>
+
+
+@section Scripts {
+
+    <script src="~/assets/js/project/project.js"></script>
+
+
+}
